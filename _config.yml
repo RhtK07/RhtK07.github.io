@@ -25,8 +25,8 @@ kramdown:
 # Site owner
 owner:
   name: Rohit K
-  avatar:  #70763270_10157769016670962_5868038955521277952_o.jpg #try image instead of avatar, try cmlh pic
-  position: Graduate Student
+  avatar:  profile_pic_1.jpg
+  position: MTech Signal Processing
   school: Indian Institue of Sciences
   place: Bangalore, India.
   bio: "Graduate student<br/>Language Technologies Institute, School of Computer Science&#13;&#10;Carnegie Mellon University&#13;&#10;Pittsburgh, PA"
@@ -42,9 +42,9 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #shrutijpalaskar
+  github: RhtK07
   stackoverflow: #username 
-  linkedin: #shrutipalaskar #username
+  linkedin: Rohit K #username
   xing: #username
   instagram: #username
   lastfm: #username
