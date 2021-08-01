@@ -21,5 +21,4 @@ Advised by [Prof. Sriram Ganapathy]((http://leap.ee.iisc.ac.in/sriram/)
 
 * **Project COSWARA**  
 Advised by [Prof. Sriram Ganapathy](http://leap.ee.iisc.ac.in/sriram/) and [Prof. Prasanta Kumar Ghosh](http://www.ee.iisc.ac.in/people/faculty/prasantg/index.html)  
-Project Coswara by Indian Institute of Science (IISc) Bangalore attempts the use of cough, speech and breathing sounds for cost-effective and contact-less testing of Covid-19 infection. For participation in the study, visit the recording link.
-[<button type="button" class="btn btn-info">Recoding Link</button>](https://coswara.iisc.ac.in/?locale=en-US)
+Project Coswara by Indian Institute of Science (IISc) Bangalore attempts the use of cough, speech and breathing sounds for cost-effective and contact-less testing of Covid-19 infection. For participation in the study, visit the [<button type="button" class="btn btn-info">Recoding Link</button>](https://coswara.iisc.ac.in/?locale=en-US).
