@@ -8,7 +8,7 @@ comments: false
 
 Email:
 rkumar44@jhu.edu  
-rkumar44 [at] jhu [dot] edu
+
 
 Address:  
 723 4th floor
