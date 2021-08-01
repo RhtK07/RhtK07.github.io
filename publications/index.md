@@ -6,7 +6,7 @@ modified: 2018-28-11T20:53:07.573882-04:00
 comments: false
 ---
 
-[Google Scholar Page](https://scholar.google.com/citations?user=7bun32IAAAAJ&hl=en&oi=ao)
+[Google Scholar Page](https://scholar.google.com/citations?user=4PulMD4AAAAJ&hl=en)
 
 
 **2020**
