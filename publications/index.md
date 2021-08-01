@@ -11,7 +11,7 @@ comments: false
 
 **2021**
 
-1. END-TO-END SPEECH RECOGNITION WITH JOINTDEREVERBERATION OF SUB-BAND AUTOREGRESSIVE ENVELOPES  
+1. End-To-End Speech Recognition With Joint Derevberation of Sub-Band Autoregressive Envelopes  
 **Rohit Kumar**, Anurenjan Purushothaman, Anirudh Sreeram and Sriram Ganapathy  
 *Under Review*  
 
