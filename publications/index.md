@@ -9,100 +9,55 @@ comments: false
 [Google Scholar Page](https://scholar.google.com/citations?user=4PulMD4AAAAJ&hl=en)
 
 
-**2020**
+**2021**
 
-1. Hierarchical Semantic Concepts for Multimodal Video Understanding  
-**Shruti Palaskar**, Ruslan Salakhutdinov, Alan W. Black, Florian Metze  
+1. END-TO-END SPEECH RECOGNITION WITH JOINTDEREVERBERATION OF SUB-BAND AUTOREGRESSIVE ENVELOPES  
+**Rohit Kumar**, Anurenjan Purushothaman, Anirudh Sreeram and Sriram Ganapathy  
 *Under Review*  
 
-1. Transfer Learning for Multimodal Dialog  
-**Shruti Palaskar**\*, Ramon Sanabria\*, Florian Metze  
-*Elsevier Computer Speech and Language*  
-[<button type="button" class="btn btn-info">Paper</button>](https://www.sciencedirect.com/science/article/pii/S0885230820300267)
+1. SRIB-LEAP submission to Far-field Multi-Channel Speech Enhancement Challenge for Video Conferencing  
+R G Prithvi Raj, **Rohit Kumar**, M K Jayesh, Anurenjan Purushothaman, Sriram Ganapathy and M A Basha Shaik  
+*INTERSPEECH 2021*  
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/2106.12763.pdf)
 
-1. Grounded Sequence-to-Sequence Transduction  
-Specia, Arora, Barrault, Caglayan, Duarte, Elliott, Gella, Holzenberger, Lala, Lee, Libovick\' y, Madhyastha, Metze, Mulligan, Ostapenko, **Palaskar**, Sanabria, Wang  
-*IEEE Journal for Select Topics in Signal Processing*  
+1. Towards sound based testing of COVID-19 - Summary of the first Diagnostics of COVID-19 using Acoustics (DiCOVA) Challenge  
+Neeraj Kumar Sharma, Ananya Muguli, Prashant Krishnan, **Rohit Kumar**, Srikanth Raj Chetupalli and Sriram Ganapathy  
+*Elsevier Computer Speech and Language*
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/2106.10997.pdf) 
 
-1. [Speech Technology for Unwritten Languages](/files/scharenborg20taslp.pdf)  
-Scharenborg, Besacier, Black, Hasegawa-Johnson, Metze, Neubig, Stüker, Godard, Müller, Ondel, **Palaskar**, Arthur, Ciannella, Du, Larsen, Merkx, Riad, Wang, Dupoux  
-*IEEE Transactions for Audio, Speech and Language*  
-[<button type="button" class="btn btn-info">Paper</button>](https://ieeexplore.ieee.org/document/8998182)
+1. Multi-modal Point-of-Care Diagnostics for COVID-19 Based On Acoustics and Symptoms
+Srikanth Raj Chetupalli, Prashant Krishnan, Neeraj Sharma, Ananya Muguli, **Rohit Kumar**, Viral Nanda, Lancelot Mark Pinto, Prasanta Kumar Ghosh and Sriram Ganapathy  
+*Under Review*  
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/2106.00639.pdf)
 
-1. [ASR Error Correction and Domain Adaptation using Machine Translation](https://arxiv.org/pdf/2003.07692.pdf)  
-Anirudh Mani\*, **Shruti Palaskar**\*, Nimshi Venkat Meripo, Sandeep Konam and Florian Metze  
+1. DiCOVA Challenge: Dataset, task, and baseline system for COVID-19 diagnosis using acoustics
+Ananya Muguli, Lancelot Pinto, Nirmala R., Neeraj Sharma, Prashant Krishnan, Prasanta Kumar Ghosh, **Rohit Kumar**, Shrirama Bhat, Srikanth Raj Chetupalli, Sriram Ganapathy, Shreyas Ramoji, Viral Nanda  
+*INTERSPEECH 2021*  
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/2103.09148.pdf)
+
+1. Investigating the Feature Selection and Explainability of COVID-19 Diagnostics from Cough Sounds
+Flavio Avila, Amir Hossein Poorjam, Deepak Mittal, Charles Dognin, Ananya Muguli, **Rohit Kumar**, Srikanth Raj Chetupalli, Sriram Ganapathy and Maneesh Singh
+*INTERSPEECH 2021*
+
+**2020**
+
+1. Unsupervised Neural Mask Estimator for Generalized Eigen-Value Beamforming Based ASR
+**Rohit Kumar**, Anirudh Sreeram, Anurenjan Purushothaman and Sriram Ganapathy  
 *International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2020*  
-[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/2003.07692.pdf)
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/1911.12617.pdf)  
 
 
-**2019**
+1. Coswara - A Database of Breathing, Cough, and Voice Sounds for COVID-19 Diagnosis  
+Neeraj Sharma, Prashant Krishnan, **Rohit Kumar**, Shreyas Ramoji, Srikanth Raj Chetupalli, Nirmala R., Prasanta Kumar Ghosh, and Sriram Ganapathy  
+*INTERSPEECH 2020*  
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/2005.10548.pdf)
 
-1. [Multimodal Abstractive Summarization for How2 Videos](https://www.aclweb.org/anthology/P19-1659/)  
-**Shruti Palaskar**, Jindrich Libovický, Spandana Gella, Florian Metze  
-*Association for Computational Linguistics (ACL), 2019*  
-[<button type="button" class="btn btn-info">Paper</button>](https://www.aclweb.org/anthology/P19-1659/)  
+1. Deep Learning Based Dereverberation of Temporal Envelopes for Robust Speech Recognition 
+Anurenjan Purushothaman, Anirudh Sreeram, **Rohit Kumar**, Sriram Ganapathy  
+*INTERSPEECH 2020*  
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/2008.03339.pdf)
 
-
-1. [Learned in Speech Recognition: Contextual Acoustic Word Embeddigs](https://openreview.net/pdf?id=SJlmNI0ojQ)  
-**Shruti Palaskar**\*, Vikas Raunak\*, Florian Metze  
-*International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2019*  
-[<button type="button" class="btn btn-info">Paper</button>](https://openreview.net/pdf?id=SJlmNI0ojQ)
-
-1. [Learning from Multiview Correlations in Open-Domain Videos](https://arxiv.org/abs/1811.08890)  
-Nils Holzenberger\*, **Shruti Palaskar**\*, Pranava Madhyastha, Florian Metze, Raman Arora  
-*International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2019*  
-[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/1811.08890)
-
-1. [Multimodal Grounding for Sequence-to-Sequence Speech Recognition](https://arxiv.org/pdf/1811.03865.pdf)  
-Ozan Caglayan, Ramon Sanabria, **Shruti Palaskar**, Loïc Barrault, Florian Metze  
-*International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2019*  
-[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/1811.03865.pdf)
-
-1. [CMU Sinbad's Submission to the DSTC7 AVSD Track](/files/dstc7_system_description.pdf)  
-Ramon Sanabria\*, **Shruti Palaskar**\*, Florian Metze  
-**Oral Presentation**  
-*7th Dialog State Tracking Challenge (DSTC) at AAAI, 2019*  
-[<button type="button" class="btn btn-info">Paper</button>](/files/dstc7_system_description.pdf)
-
-**2018**
-
-1. [Acoustic to Word Recognition with Sequence to Sequence Models](https://arxiv.org/pdf/1807.09597.pdf)  
-**Shruti Palaskar** and Florian Metze  
-*IEEE Workshop on Spoken Language Technology (SLT), 2018*  
-[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/1807.09597.pdf)
-
-1. [How2: A Large-scale Dataset for Multimodal Language Understanding](https://arxiv.org/pdf/1811.00347.pdf)  
-Ramon Sanabria, Ozan Caglayan, **Shruti Palaskar**, Desmond Elliott, Loïc Barrault, Lucia Specia, Florian Metze  
-*NeurIPS workshop on Visually Grounded Interaction and Language (ViGIL), 2018*  
-[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/1811.00347.pdf)
-
-1. [Multimodal Abstractive Summarization for Open-Domain Videos](https://nips2018vigil.github.io/static/papers/accepted/8.pdf)  
-Jindrich Libovicky, **Shruti Palaskar**, Spandana Gella, Florian Metze  
-**Spotlight Presentation**  
-*NeurIPS workshop on Visually Grounded Interaction and Language (ViGIL), 2018*  
-[<button type="button" class="btn btn-info">Paper</button>](https://nips2018vigil.github.io/static/papers/accepted/8.pdf)
-
-1. [End-to-End Multimodal Speech Recognition](https://arxiv.org/pdf/1804.09713.pdf)  
-**Shruti Palaskar**\*, Ramon Sanabria\*, Florian Metze  
-*International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2018*  
-[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/1804.09713.pdf)
-
-1. [Linguistic unit discovery from multi-modal inputs in unwritten languages: Summary of the "Speaking Rosetta" JSALT 2017 Workshop](https://arxiv.org/pdf/1802.05092.pdf)  
-Odette Scharenborg, Laurent Besacier, Alan Black, Mark Hasegawa-Johnson, Florian Metze, Graham Neubig, Sebastian Stüker, Pierre Godard, Markus Müller, Lucas Ondel, **Shruti Palaskar**, Philip Arthur, Francesco Ciannella, Mingxing Du, Elin Larsen, Danny Merkx, Rachid Riad, Liming Wang, Emmanuel Dupoux  
-*International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2018*  
-[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/1802.05092.pdf)
-
-
-**2017**
-
-1. [Building an asr system for a low-resource language through the adaptation of a high-resource language asr system: Preliminary results](http://www.isle.illinois.edu/sst/pubs/2017/scharenborg17icnlssp.pdf)  
-Odette Scharenborg, Francesco Ciannella, **Shruti Palaskar**, Alan Black, Florian Metze, Lucas Ondel, Mark Hasegawa-Johnson  
-*ICNLSSP, 2017*  
-[<button type="button" class="btn btn-info">Paper</button>](http://www.isle.illinois.edu/sst/pubs/2017/scharenborg17icnlssp.pdf)
-
-1. [Combining LSTM and Latent Topic Modeling for Mortality Prediction](https://arxiv.org/pdf/1709.02842.pdf)  
-Yohan Jo, Lisa Lee, **Shruti Palaskar**  
-*Preprint, 2017*  
-[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/1709.02842.pdf)
-
-\* - Equal contribution
+1. LEAP Submission to CHiME-6 ASR Challenge  
+Anirudh Sreeram, Anurenjan Purushothaman, **Rohit Kumar**, Sriram Ganapathy 
+*CHIME-6 Challenge*  
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/2005.11258.pdf)
