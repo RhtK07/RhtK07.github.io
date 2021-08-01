@@ -6,11 +6,12 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
-Email:  
-rohitk [at] iisc [dot] ac [dot] in  
+Email:
+rkumar44@jhu.edu  
+rkumar44 [at] jhu [dot] edu
 
 Address:  
-C 739, DA Flats
-Timarpur
-Delhi-110054
+723 4th floor
+Mukherjee Nagar
+Delhi-110009
 India.
