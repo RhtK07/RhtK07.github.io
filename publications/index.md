@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications 
-tags: [research, publications, shruti, palaskar, cmu, graduate, pict]
+tags: [research, publications, rohit, kumar, jhu, graduate, pict]
 modified: 2018-28-11T20:53:07.573882-04:00
 comments: false
 ---
