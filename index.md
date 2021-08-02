@@ -14,11 +14,10 @@ Hi!
 I am a PhD student at the [Center for Language and Speech Processing](https://www.clsp.jhu.edu/) of the Electrical and Computer Engineering at [Johns Hopkins University](https://www.jhu.edu/). My research interests lie in the areas of signal processing, machine learning, deep learning, and neuroscience with applications to robust speech recognition, speech enhancement, auditory and behavioral neuroscience. I am fortunate to be advised by [Prof. Mounya Elhilali](http://www.cs.cmu.edu/~fmetze/interACT/Home.html). 
 
 
-Before that, I have completed my [Master's in Signal Processing(2018-2020)](https://ece.iisc.ac.in/) under the guidance of [Prof. Sriram Ganapathy](http://www.leap.ee.iisc.ac.in/sriram/) from the [Indian Institute of Science, Bengaluru](https://iisc.ac.in/), where I continued to work as a Senior Research Fellow(2020-21). While working with Prof. Sriram in the [LEAP Lab](http://leap.ee.iisc.ac.in/), I got the opportunity to work on the problem Multi-Channel Noise Robust Speech Recognition. Additionally, I was also part of Project COSWARA.
+Before that, I have completed my [Master's in Signal Processing](https://ece.iisc.ac.in/)(2018-20) under the guidance of [Prof. Sriram Ganapathy](http://www.leap.ee.iisc.ac.in/sriram/) from the [Indian Institute of Science, Bengaluru](https://iisc.ac.in/), where I continued to work as a Senior Research Fellow(2020-21). While working with Prof. Sriram in the [LEAP Lab](http://leap.ee.iisc.ac.in/), I got the opportunity to work on the problem of Multi-Channel Noise Robust Speech Recognition. Additionally, I was also part of Project COSWARA.
 
-I have worked as an automation officer in Hindustan Petroleum, after completing my B.Tech in Electronics and Communication from [Delhi College of Engineering.](http://www.dtu.ac.in/)
+I have worked as an Automation Officer in Hindustan Petroleum, after completing my B.Tech in Electronics and Communication from [Delhi College of Engineering](http://www.dtu.ac.in/).
 
-   
 
 ----
 
@@ -31,4 +30,11 @@ I have worked as an automation officer in Hindustan Petroleum, after completing 
         <td> Admitted to the PhD program, in the Department of Electrical and Computer Engineering at the Johns Hopkins University.
         </td>
     </tr>
+    
+    <tr>
+        <td valign="top"><strong>[March 2020]</strong></td>
+        <td> Our work on unsupervied mask estimation for neural beamforming got accepted in ICASSP 2020.
+        </td>
+    </tr>
+
 </table>
