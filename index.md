@@ -60,5 +60,23 @@ I have worked as an Automation Officer in Hindustan Petroleum, after completing 
         <td>Delhi Technological University(formerly Delhi College of Engineering)<br>2013-2017</td>
     </tr>
     </tr>
+        <td>
+            <a href="https://www.snapchat.com/">
+            <img src="/images/snapchat-logo.png"></a>
+        </td>
+        <td>
+            <a href="https://research.fb.com/category/facebook-ai-research-fair/">
+            <img src="/images/fair-logo.png"></a>
+        </td>
+        <td>
+            <a href="https://ai.google/research/teams/brain">
+            <img src="/images/google-logo.png"></a>
+        </td>
     </tr>
+    <tr>
+        <td>Snapchat Research<br>Summer 2016</td>
+        <td>Facebook AI Research<br>Summer 2017</td>
+        <td>Google Brain<br>Summer 2018</td>
+    </tr>
+
 </table>
