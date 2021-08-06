@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-tags: [research, satwik, kottur, cmu, graduate, iitb]
+tags: [research, publications, rohit, kumar, jhu, graduate, pict]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
@@ -11,99 +11,60 @@ I recently got interested in understanding semantics from vision and languague b
 
 ### Publications
 
-1. Seungwhan Moon\*, **Satwik Kottur**\*, Paul A. Crook^, Ankita De^, 
-Shivani Poddar^, Theodore Levin, David Whitney, Daniel Difranco, Ahmad Beirami, 
-Eunjoon Cho, Rajen Subba, Alborz Geramifard  
-\*,^ equal contribution  
-[Situated and Interactive Multimodal Conversations]()  
-*International Conference on Computational Linguistics (COLING), 2020*  
-**Oral Presentation**  
-[<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/2006.01460)
-[<button type="button" class="btn btn-danger">Code</button>](https://github.com/facebookresearch/simmc)
-[<button type="button" class="btn">Blog</button>](https://ai.facebook.com/blog/simmc-a-data-set-for-developing-next-generation-shopping-assistants/)
+[Google Scholar Page](https://scholar.google.com/citations?user=4PulMD4AAAAJ&hl=en)
 
-1. Paul Pu Liang, Jeffrey Chen, Ruslan Salakhutdinov, Louis-Philippe Morency, **Satwik Kottur**  
-[On Emergent Communication in Competitive Multi-Agent Teams]()  
-*International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS), 2020*  
-**Oral Presentation**  
-[<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/2003.01848)
-[<button type="button" class="btn btn-danger">Code</button>](https://github.com/pliang279/Competitive-Emergent-Communication)
+**2021**
 
-1. **Satwik Kottur**, Jos&eacute; M. F. Moura, Devi Parikh, Dhruv Batra, 
-Marcus Rohrbach   
-[CLEVR-Dialog: A Diagnostic Dataset for Multi-Round Reasoning in Visual Dialog]()  
-*Conference of the North American Chapter of the Association for 
-Computational Linguistics (NAACL), 2019*  
-**Oral Presentation**  
-[<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1903.03166)
-[<button type="button" class="btn btn-danger">Code</button>](https://github.com/satwikkottur/clevr-dialog)
-[<button type="button" class="btn">Talk</button>](https://vimeo.com/360533677)  
+1. End-To-End Speech Recognition With Joint Derevberation of Sub-Band Autoregressive Envelopes
+**Rohit Kumar**, Anurenjan Purushothaman, Anirudh Sreeram and Sriram Ganapathy
+*Under Review*
 
-1. **Satwik Kottur**, Jos&eacute; M. F. Moura, Devi Parikh, Dhruv Batra, 
-Marcus Rohrbach   
-[Visual Coreference Resolution in Visual Dialog using Neural Module Networks]()  
-*European Conference on Computer Vision (ECCV), 2018.*  
-[<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1809.01816)
-[<button type="button" class="btn btn-danger">Code</button>](https://github.com/facebookresearch/corefnmn)  
+1. SRIB-LEAP submission to Far-field Multi-Channel Speech Enhancement Challenge for Video Conferencing
+R G Prithvi Raj, **Rohit Kumar**, M K Jayesh, Anurenjan Purushothaman, Sriram Ganapathy and M A Basha Shaik
+*INTERSPEECH 2021*
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/2106.12763.pdf)
 
-1. Manzil Zaheer, **Satwik Kottur**, Siamak Ravanbakhsh, Barnabás  Póczos, Ruslan Salakhutdinov, Alex Smola  
-[Deepsets]()  
-**Oral Presentation**  
-*Conference on Neural Information Processing Systems (NIPS), 2017.*  
-[<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1703.06114)
-[<button type="button" class="btn btn-danger">Code</button>](https://github.com/manzilzaheer/DeepSets)  
+1. Towards sound based testing of COVID-19 - Summary of the first Diagnostics of COVID-19 using Acoustics (DiCOVA) Challenge
+Neeraj Kumar Sharma, Ananya Muguli, Prashant Krishnan, **Rohit Kumar**, Srikanth Raj Chetupalli and Sriram Ganapathy
+*Elsevier Computer Speech and Language*
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/2106.10997.pdf)
 
-1. **Satwik Kottur**, Jos&eacute; M. F. Moura, Stefan Lee, Dhruv Batra  
-[Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog]()  
-**Best Short Paper Award**  
-*Conference on Empirical Methods in Natural Language Processing (EMNLP), 2017.*  
-[<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1706.08502)
-[<button type="button" class="btn btn-danger">Code</button>](https://github.com/batra-mlp-lab/lang-emerge)  
+1. Multi-modal Point-of-Care Diagnostics for COVID-19 Based On Acoustics and Symptoms
+Srikanth Raj Chetupalli, Prashant Krishnan, Neeraj Sharma, Ananya Muguli, **Rohit Kumar**, Viral Nanda, Lancelot Mark Pinto, Prasanta Kumar Ghosh and Sriram Ganapathy
+*Under Review*
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/2106.00639.pdf)
 
-1. Abhishek Das\*, **Satwik Kottur**\*, Jos&eacute; M. F. Moura, Stefan Lee, Dhruv Batra  
-\* equal contribution  
-[Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning]()  
-**Oral Presentation**  
-*International Conference on Computer Vision (ICCV), 2017.*  
-[<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1703.06585)
-[<button type="button" class="btn btn-danger">Code</button>](https://github.com/batra-mlp-lab/visdial-rl)  
+1. DiCOVA Challenge: Dataset, task, and baseline system for COVID-19 diagnosis using acoustics
+Ananya Muguli, Lancelot Pinto, Nirmala R., Neeraj Sharma, Prashant Krishnan, Prasanta Kumar Ghosh, **Rohit Kumar**, Shrirama Bhat, Srikanth Raj Chetupalli, Sriram Ganapathy, Shreyas Ramoji, Viral Nanda
+*INTERSPEECH 2021*
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/2103.09148.pdf)
 
-1. Manzil Zaheer\*, **Satwik Kottur**\*, Jos&eacute; M. F. Moura, Amr Ahmed, Alex Smola  
-\* equal contribution  
-[Canopy -- Fast Sampling with Cover Trees]()  
-*International Conference on Machine Learning (ICML), 2017.*  
-[<button type="button" class="btn btn-info">Paper</button>](http://proceedings.mlr.press/v70/zaheer17b.html)  
+1. Investigating the Feature Selection and Explainability of COVID-19 Diagnostics from Cough Sounds
+Flavio Avila, Amir Hossein Poorjam, Deepak Mittal, Charles Dognin, Ananya Muguli, **Rohit Kumar**, Srikanth Raj Chetupalli, Sriram Ganapathy and Maneesh Singh
+*INTERSPEECH 2021*
 
-1. **Satwik Kottur**, Vitor Carvalho, Xiaoyu Wang  
-[Exploring Personalized Neural Conversational Models]()  
-*Internation Conference on Artificial Intelligence (IJCAI), 2017.*  
-[<button type="button" class="btn btn-info">Paper</button>](https://www.ijcai.org/proceedings/2017/521)  
+**2020**
 
-1. Abhishek Das, **Satwik Kottur**, Khushi Gupta, Avi Singh, Deshraj Yadav, Jos&eacute; M. F. Moura, Devi Parikh, Dhruv Batra  
-[Visual Dialog](http://visualdialog.org/)  
-**Spotlight**, *IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.*  
-[<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1611.08669)
-[<button type="button" class="btn btn-warning">Project Page</button>](http://visualdialog.org/)
-[<button type="button" class="btn">Video</button>](https://vimeo.com/193092429)
-[<button type="button" class="btn btn-danger">Code</button>](https://github.com/batra-mlp-lab/visdial)  
+1. Unsupervised Neural Mask Estimator for Generalized Eigen-Value Beamforming Based ASR
+**Rohit Kumar**, Anirudh Sreeram, Anurenjan Purushothaman and Sriram Ganapathy
+*International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2020*
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/1911.12617.pdf)
 
-1. **Satwik Kottur**\*, Ramakrishna Vedantam\*, Jos&eacute; M. F. Moura, Devi Parikh  
-\* equal contribution  
-[Visual Word2vec (vis-w2v): Learning Visually grounded Word Embeddings Using Abstract Scenes]()  
-*IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.*  
-[<button type="button" class="btn btn-info">ArXiv</button>](http://arxiv.org/abs/1511.07067)
-[<button type="button" class="btn btn-warning">Project Page</button>](http://satwikkottur.github.io/VisualWord2Vec/)
-[<button type="button" class="btn btn-danger">Code</button>](https://github.com/satwikkottur/VisualWord2Vec)  
 
-2. Manzil Zaheer, Micheal Wick, **Satwik Kottur**, Jean-Baptiste Tristan  
-[Comparing Gibbs, EM and SEM for MAP Inference in Mixture Models]()  
-*OPT: NIPS Workshop on Optimization for Machine Learning, 2015.*  
-[<button type="button" class="btn btn-info">Paper</button>](/reports/NIPSW-SEM-2015.pdf){:target="_blank"}   
+1. Coswara - A Database of Breathing, Cough, and Voice Sounds for COVID-19 Diagnosis
+Neeraj Sharma, Prashant Krishnan, **Rohit Kumar**, Shreyas Ramoji, Srikanth Raj Chetupalli, Nirmala R., Prasanta Kumar Ghosh, and Sriram Ganapathy
+*INTERSPEECH 2020*
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/2005.10548.pdf)
 
-3. Evgeny Toropov, Liangyan Gui, Shanghang Zhang, **Satwik Kottur**, Jos&eacute; M. F. Moura  
-[Traffic Flow from a Low Frame Rate City Camera]()  
-*Big Data Processing and Analysis (special session) in IEEE International Conference on Image Processing (ICIP), 2015.*  
-[<button type="button" class="btn btn-info">Paper</button>](/reports/ICIP-2015.pdf){:target="_blank"}   
+1. Deep Learning Based Dereverberation of Temporal Envelopes for Robust Speech Recognition
+Anurenjan Purushothaman, Anirudh Sreeram, **Rohit Kumar**, Sriram Ganapathy
+*INTERSPEECH 2020*
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/2008.03339.pdf)
+
+1. LEAP Submission to CHiME-6 ASR Challenge
+Anirudh Sreeram, Anurenjan Purushothaman, **Rohit Kumar**, Sriram Ganapathy
+*CHIME-6 Challenge*
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/2005.11258.pdf)
 
 -----
 

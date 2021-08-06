@@ -8,14 +8,14 @@ comments: false
 
 You can contact me at :
 
-**Satwik Kottur**  
+**Rohit K**  
 Email:  
 
-* skottur [at] andrew [dot] cmu [dot] edu
-* satwik27 [at] gmail [dot] com
+* rkumar44 [at] jhu [dot] edu
+* rohtkumar07 [at] gmail [dot] com
 
-Address:  
-B10, Porter Hall,  
-5000 Forbes,  
-Carnegie Mellon University,  
-Pittsburgh, PA - 15213.  
+Address: 
+723 4th floor
+Mukherjee Nagar
+Delhi-110009
+India. 
