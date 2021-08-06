@@ -1,11 +1,10 @@
 # Site wide configuration
 
-title: 
-locale: en_US
-url: https://rhtk07.github.io/
+title:            
+locale:           en_US
+url: https://satwikkottur.github.io
 # Jekyll configuration
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin    : "dark"
+
 permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: rouge
@@ -24,27 +23,26 @@ kramdown:
 
 # Site owner
 owner:
-  name: Rohit K
-  avatar:  pp2.jpg
-  position: Graduate Student
-  school: Johns Hopkins University
-  place: Baltimore, Maryland.
-  bio: "Graduate student<br/>Electrical and Computer Engineering &#13;&#10; Johns Hopkins University&#13;&#10;Baltimore, Maryland"
-  email: rkumar44@jhu.edu
+  name: Satwik Kottur
+  avatar: bio-photo-3.jpg
+  position: Research Scientist
+  school: Facebook AI
+  place: Menlo Park, CA
+  bio: "Research Scientist<br/>Facebook AI&#13;&#10;Menlo Park, CA"
+  email: satwik27@gmail.com
   disqus-shortname:
-  twitter: #sjpal94
-  facebook:  #username
+  twitter: #username
+  facebook: satwik27 #username
   google:
-    scholar: https://scholar.google.com/citations?user=4PulMD4AAAAJ&hl=en
-    plus:  #username
-    analytics: UA-57438847-4
+    plus: 
+    analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: RhtK07
-  stackoverflow: #username 
-  linkedin: www.linkedin.com/in/rohit-k07 #username
+  github: satwikkottur
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: satwik-kottur-6898b634 #username
   xing: #username
   instagram: #username
   lastfm: #username
@@ -58,6 +56,7 @@ owner:
   weibo: #username
   flickr: #username
   codepen: #username
+  scholar: #username
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
