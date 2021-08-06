@@ -60,4 +60,5 @@ I have worked as an Automation Officer in Hindustan Petroleum, after completing 
         <td>Delhi Technological University(formerly Delhi College of Engineering)<br>2013-2017</td>
     </tr>
     </tr>
+    </tr>
 </table>
