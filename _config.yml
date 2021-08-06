@@ -2,7 +2,7 @@
 
 title:            
 locale:           en_US
-url: https://satwikkottur.github.io
+url: https://rhtk07.github.io/
 # Jekyll configuration
 
 permalink:   /:categories/:title/
@@ -23,26 +23,27 @@ kramdown:
 
 # Site owner
 owner:
-  name: Satwik Kottur
-  avatar: bio-photo-3.jpg
-  position: Research Scientist
-  school: Facebook AI
-  place: Menlo Park, CA
-  bio: "Research Scientist<br/>Facebook AI&#13;&#10;Menlo Park, CA"
-  email: satwik27@gmail.com
+  name: Rohit K
+  avatar: rohitk_b1.jpg 
+  position: Graduate Student
+  school: Johns Hopkins University
+  place: Baltimore, Maryland.
+  bio: "Graduate student<br/>Electrical and Computer Engineering &#13;&#10; Johns Hopkins University&#13;&#10;Baltimore, Maryland"
+  email:  rkumar44@jhu.edu
   disqus-shortname:
   twitter: #username
-  facebook: satwik27 #username
+  facebook:  #username
   google:
+    scholar: https://scholar.google.com/citations?user=4PulMD4AAAAJ&hl=en
     plus: 
     analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: satwikkottur
+  github: RhtK07
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: satwik-kottur-6898b634 #username
+  linkedin: www.linkedin.com/in/rohit-k07 #username
   xing: #username
   instagram: #username
   lastfm: #username
