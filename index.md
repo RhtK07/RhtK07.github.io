@@ -42,40 +42,22 @@ I have worked as an Automation Officer in Hindustan Petroleum, after completing 
 <table align="center" class='affl-pic'>
     <tr>
         <td>
-            <a href="http://www.cmu.edu/">
-            <img src="/images/cmu-logo.png"></a>
+            <a href="https://www.jhu.edu/">
+            <img src="/images/jhu_logo.png"></a>
         </td>
         <td>
-            <a href="http://www.iitb.ac.in/">
-            <img src="/images/iitb-logo.jpeg"></a>
+            <a href="https://iisc.ac.in/">
+            <img src="/images/iisc_logo.png"></a>
         </td>
         <td>
-            <a href="http://viterbi.usc.edu/">
-            <img src="/images/viterbi-logo.jpg"></a>
+            <a href="http://www.dtu.ac.in/">
+            <img src="/images/dtu_logo.png"></a>
         </td>
     <tr>
     <tr>
-        <td>Carnegie Mellon University<br>2014-2019</td>
-        <td>IIT Bombay<br>2010-2014</td>
-        <td>Viterbi School, USC<br>Summer 2013</td>
+        <td>Johns Hopkins University<br>2021-Present</td>
+        <td>Indian Institute of Science Bangalore<br>2018-2021</td>
+        <td>Delhi Technological University(formerly Delhi College of Engineering)<br>2013-2017</td>
     </tr>
-    </tr>
-        <td>
-            <a href="https://www.snapchat.com/">
-            <img src="/images/snapchat-logo.png"></a>
-        </td>
-        <td>
-            <a href="https://research.fb.com/category/facebook-ai-research-fair/">
-            <img src="/images/fair-logo.png"></a>
-        </td>
-        <td>
-            <a href="https://ai.google/research/teams/brain">
-            <img src="/images/google-logo.png"></a>
-        </td>
-    </tr>
-    <tr>
-        <td>Snapchat Research<br>Summer 2016</td>
-        <td>Facebook AI Research<br>Summer 2017</td>
-        <td>Google Brain<br>Summer 2018</td>
     </tr>
 </table>
