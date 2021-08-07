@@ -18,8 +18,6 @@ Instructor: Prof. Sriram Ganapathy
 
 ### Publications
 
-[Google Scholar Page](https://scholar.google.com/citations?user=4PulMD4AAAAJ&hl=en)
-
 **2021**
 
 1. End-To-End Speech Recognition With Joint Derevberation of Sub-Band Autoregressive Envelopes

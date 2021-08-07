@@ -4,7 +4,7 @@
 locale:           en_US
 url: https://rhtk07.github.io/
 # Jekyll configuration
-
+minimal_mistakes_skin: "dark" #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: rouge
