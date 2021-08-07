@@ -46,12 +46,12 @@ I have worked as an Automation Officer in Hindustan Petroleum, after completing 
             <img src="/images/jhu_logo.png" width="115" height="115"></a>
         </td>
         <td>
-            <a href="https://iisc.ac.in/" width="100" height="100">
-            <img src="/images/iisc_logo.png"></a>
+            <a href="https://iisc.ac.in/">
+            <img src="/images/iisc_logo.png" width="115" height="115"></a>
         </td>
         <td>
-            <a href="http://www.dtu.ac.in/" width="100" height="100">
-            <img src="/images/dtu_logo.png"></a>
+            <a href="http://www.dtu.ac.in/">
+            <img src="/images/dtu_logo.png" width="115" height="115"></a>
         </td>
     <tr>
     <tr>
