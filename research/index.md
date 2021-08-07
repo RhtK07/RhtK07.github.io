@@ -15,7 +15,6 @@ My research interests lie in the areas of signal processing, machine learning, d
 Instructor: Prof. Sriram Ganapathy  
 [<button type="button" class="btn btn-info">Report</button>](/reports/Mtech_Thesis.pdf)
 
----
 
 ### Publications
 
