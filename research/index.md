@@ -6,8 +6,7 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
-My interests broadly lie in the fields of computer vision, machine learning and natural language processing.
-I recently got interested in understanding semantics from vision and languague by solving multimodal AI tasks like visual dialog, visual question answering, conversational text generation, etc., using deep learning tools.
+My research interests lie in the areas of signal processing, machine learning, deep learning, and neuroscience with applications to robust speech recognition, speech enhancement, auditory and behavioral neuroscience.
 
 ### Publications
 
