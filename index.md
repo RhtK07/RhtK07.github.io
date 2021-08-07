@@ -30,7 +30,7 @@ I have worked as an Automation Officer in Hindustan Petroleum, after completing 
 
     <tr>
         <td valign="top"><strong>[March 2020]</strong></td>
-        <td> Checkout our paper <a href="https://arxiv.org/pdf/1911.12617.pdf">Unsupervised Neural Mask Estimator for Generalized Eigen-Value Beamforming Based ASR</a>, which got accepted in International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2020.
+        <td> Checkout our paper <a href="https://arxiv.org/pdf/1911.12617.pdf">Unsupervised Neural Mask Estimator for Generalized Eigen-Value Beamforming Based ASR</a>, which got accepted ICASSP, 2020.
         </td>
     </tr>
 
