@@ -74,7 +74,7 @@ Anirudh Sreeram, Anurenjan Purushothaman, **Rohit Kumar**, Sriram Ganapathy
 Instructor: Prof. Sriram Ganapathy  
 **Abstract:**  
 Decoding of the auditory brain for an acoustic stimulus involves finding the relationship between the audio input and the brain activity measured in terms of Electroencephalography (EEG) recordings. Prior methods in this domain focus on analysing a subjects' activity separately using linear analysis methods like Canonical Correlation Analysis (CCA) and non-linear methods like Deep CCA. A recent attempt was made, called multiway CCA, to combine the brain activity readings from a bunch of subjects and extract useful information from each subject which is irrespective of the subject to obtain a large dataset of stimulus and response to work with. In this project, we tried to introduce a deep learning framework to perform correlation analysis in this setup. We try to replace the block of multiway CCA, which is one linear formulation of a Generalized Canonical Correlation Analysis with a deep version of Generalized CCA. The corresponding results obtained in performing the existing multiway CCA method onto the data and the comparison of the correlations obtained for each subject with and without the influence of other subjects' data are presented.
-[<button type="button" class="btn btn-info">Report</button>](/reports/F15-CO-Report.pdf)
+[<button type="button" class="btn btn-info">Report</button>](/reports/MLSP_course_project_submission.pdf)
 
 * **Non-Negative Matrix Factorization**  
 *E0 229 Foundations of Data Science*  
@@ -82,8 +82,8 @@ Instructor: Prof. Siddharth Barman
 **Abstract:** 
 Linear dimensionality reduction techniques such as principal component analysis and singular value decomposition are powerful tools for dealing with high dimensional data.
 In this report, we will explore a linear dimensionality reduction technique namely Non negative matrix factorization, a low rank approximation problem which is quite useful while dealing with data in which all entries are non negative, for eg., spectrogram matrix entries or pixels in an image. More precisely, we seek to approximate a given non negative matrix as a product of two low-rank non negative matrices. In this report we will embark on the journey to explore the theoretical complexity associated with this problem, then how to find the non negative factors of our main protagonist and what all applications are there we can use this non negative matrix factorisation. 
-[<button type="button" class="btn btn-info">Report</button>](/reports/F15-CO-Report.pdf){:target="_blank"}
-[<button type="button" class="btn btn-success">Poster</button>](/reports/F15-CO-Poster.pptx)  
+[<button type="button" class="btn btn-info">Report</button>](/reports/FDS_report_mod.pdf){:target="_blank"}
+[<button type="button" class="btn btn-success">PPT</button>](/reports/FDS.pdf)  
 
 * **Speech dereverberation using variance-normalized delayed linear prediction**  
 *E9 261 Speech Information Processing*  
