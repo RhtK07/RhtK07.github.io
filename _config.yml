@@ -5,14 +5,26 @@ locale:           en_US
 url: https://rhtk07.github.io/
 # Jekyll configuration
 minimal_mistakes_skin: "dark" #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+search: true
+
 permalink:   /:categories/:title/
 markdown:    kramdown
+remote_theme: mmistakes/minimal-mistakes
 highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
 gems:
   - jekyll-sitemap
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
 
 kramdown:
   auto_ids: true
@@ -38,21 +50,9 @@ owner:
       icon: "ai ai-google-scholar"
       url: " https://scholar.google.com/citations?user=4PulMD4AAAAJ&hl=en"
   github: RhtK07
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: www.linkedin.com/in/rohit-k07 #username
-  xing: #username
   instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
   youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
-  codepen: #username
   scholar: "https://scholar.google.com/citations?user=4PulMD4AAAAJ&hl=en"
 
 include: [".htaccess"]
