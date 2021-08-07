@@ -43,7 +43,7 @@ I have worked as an Automation Officer in Hindustan Petroleum, after completing 
     <tr>
         <td>
             <a href="https://www.jhu.edu/">
-            <img src="/images/jhu_logo.png" width=10%></a>
+            <img src="/images/jhu_logo.png" width=40%></a>
         </td>
         <td>
             <a href="https://iisc.ac.in/">
