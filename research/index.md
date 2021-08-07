@@ -69,112 +69,33 @@ Anirudh Sreeram, Anurenjan Purushothaman, **Rohit Kumar**, Sriram Ganapathy
 
 ### Other projects
 
-* **Spoken Dialog System with Audio and Text**  
-*Topics in Deep Learning (10-807), Fall 2016*  
-Instructor: Prof. Ruslan Salakhutdinov  
+* **DEEP MULTIWAY CANONICAL CORRELATION ANALYSIS FOR DECODING THEAUDITORY BRAIN**  
+*E9 205 Machine Learning for Signal Processing*  
+Instructor: Prof. Sriram Ganapathy  
 **Abstract:**  
-Growth of technology places a lot of importance in human-machine interaction.
-With the advent of deep learning, conversational agents that engage with human through free form natural language have become popular.
-However, most of these attempts are purely text-based and ignore audio cues.
-Emotional information in human-human conversations, encoded in audio cues such as intonation and pitch, often plays an important role that is ignored the text-based approaches.
-In other words, the responses depend on not only *what you say* but also *how you say*.
-Thus, we explore generative models that jointly train on audio and text in this work.
+Decoding of the auditory brain for an acoustic stimulus involves finding the relationship between the audio input and the brain activity measured in terms of Electroencephalography (EEG) recordings. Prior methods in this domain focus on analysing a subjects' activity separately using linear analysis methods like Canonical Correlation Analysis (CCA) and non-linear methods like Deep CCA. A recent attempt was made, called multiway CCA, to combine the brain activity readings from a bunch of subjects and extract useful information from each subject which is irrespective of the subject to obtain a large dataset of stimulus and response to work with. In this project, we tried to introduce a deep learning framework to perform correlation analysis in this setup. We try to replace the block of multiway CCA, which is one linear formulation of a Generalized Canonical Correlation Analysis with a deep version of Generalized CCA. The corresponding results obtained in performing the existing multiway CCA method onto the data and the comparison of the correlations obtained for each subject with and without the influence of other subjects' data are presented.
+[<button type="button" class="btn btn-info">Report</button>](/reports/F15-CO-Report.pdf)
 
-* **Stochastic Expectation Maximization for Latent Variable Models**  
-*Convex Optimization (10-725), Fall 2015*  
-Instructor: Prof. Ryan Tibshirani  
-**Abstract:**  
-In this project, we want to implement and study a type of stochastic optimization. 
-This optimization method based on expectation-maximization will be asynchronous & embarrassingly parallel and thus is useful for inference of latent variable models. 
-The motivation for this stochastic optimization problem comes from a want to directly design a inference procedure from a "comptastical" (computational + statistical) perspective capable of leveraging modern computational resources like GPUs or cloud computing offering massive parallelism. 
-We also find some interesting connection between stochastic expectation-maximization and stochastic gradient descent strengthening validity of proposed method.  
+* **Non-Negative Matrix Factorization**  
+*E0 229 Foundations of Data Science*  
+Instructor: Prof. Siddharth Barman
+**Abstract:** 
+Linear dimensionality reduction techniques such as principal component analysis and singular value decomposition are powerful tools for dealing with high dimensional data.
+In this report, we will explore a linear dimensionality reduction technique namely Non negative matrix factorization, a low rank approximation problem which is quite useful while dealing with data in which all entries are non negative, for eg., spectrogram matrix entries or pixels in an image. More precisely, we seek to approximate a given non negative matrix as a product of two low-rank non negative matrices. In this report we will embark on the journey to explore the theoretical complexity associated with this problem, then how to find the non negative factors of our main protagonist and what all applications are there we can use this non negative matrix factorisation. 
 [<button type="button" class="btn btn-info">Report</button>](/reports/F15-CO-Report.pdf){:target="_blank"}
 [<button type="button" class="btn btn-success">Poster</button>](/reports/F15-CO-Poster.pptx)  
 
-* **Non-smooth Stochastic Optimization for MCMC**  
-*Probabilistic Graphical Models (10-708), Spring 2015*  
-Instructor: Prof. Eric Xing  
+* **Speech dereverberation using variance-normalized delayed linear prediction**  
+*E9 261 Speech Information Processing*  
+Instructor: Prof. Prasanta Kumar Ghosh and Prof. Sriram Ganapathy  
 **Abstract:**  
-How do we sample efficiently from the Bayesian Lasso in a high dimensional problem with a large dataset? Hybrid Monte Carlo (HMC) has grown in popularity because it enables more efficient exploration of the state space in high-dimensional problems.
-Also, Stochastic Gradient-HMC has been proposed to enable application of HMC to large datasets. 
-However, these methods apply to sampling from smooth energy functions only. We propose two ways of dealing with this: 
-(1) SPG-HMC: Stochastic Proximal Gradient-HMC, to enable sampling from non-smooth energy functions without losing the benefits of stochasticity, and 
-(2) Smoothing-SG-HMC. 
-Further, we analyze its properties theoretically and empirically.  
-[<button type="button" class="btn btn-info">Report</button>](/reports/S15-PGM-Report.pdf){:target="_blank"}
-[<button type="button" class="btn btn-danger">Code</button>](https://github.com/satwikkottur/StochasticMCMC)  
 
-* **Movie Recommendation based on Collaborative Topic Modeling**  
-*Machine Learning (10-701), Fall 2014*  
-Instructor: Prof. Geoff Gordon and Prof. Aarti Singh  
+
+* **Sparsity in Linear Prediction Coefficient**  
+*E9 203 Compressive sensing and sparse signal processing*  
+Instructor: Prof. K.V.S Hari  
 **Abstract:**  
-Traditional collaborative filtering relies on ratings provided by viewers in the movie-watching community to make recommendations to the user.
-In this project, we attempt to combine this approach with probabilistic topic modeling techniques to make recommendations that consist not only of movies that are popular in the community, but also those that are similar in content to movies that the user has enjoyed in the past.  
-[<button type="button" class="btn btn-info">Report</button>](/reports/F14-ML-Report.pdf){:target="_blank"}
-[<button type="button" class="btn btn-success">Poster</button>](/reports/F14-ML-Poster.pptx)
-[<button type="button" class="btn btn-danger">Code</button>](https://github.com/satwikkottur/MovieRecommend)  
 
-* **Detecting Text in Natural Images**  
-*Computer Vision (16-720), Fall 2014*  
-Instructor: Prof. Martial Hebert  
-**Abstract:**  
-Intelligent systems often need to read text in their surroundings. 
-There are multiple aspects that make this a challenging problem.
-For instance, locating and identifying the part of image containing text is in itself difficult. 
-We study a recent approach that uses stroke width transform, and analyse the success and failure cases to get a clearer understanding.  
-[<button type="button" class="btn btn-success">Poster</button>](/reports/F14-CV-Poster.pptx)
-[<button type="button" class="btn btn-danger">Code</button>](https://github.com/satwikkottur/ImageTextDetector)  
-
-<a id="static-vehicle-detection-and-analysis-in-aerial-imagery-using-depth"></a>
-
-* **Static Vehicle Detection and Analysis in Aerial Imagery using Depth**  
-*Internship at [IRIS](http://iris.usc.edu/iris.html), University of Southern California, Summer 2013*  
-Guide: Prof. Gerard Medioni  
-**Abstract:**  
-This report proposes an approach to automatically detect static vehicles in an outdoor parking space using depth. 
-The relevant 3D information is generated from a Digital Surface Model (DSM), which is a result of a novel and existing technique to solve camera pose estimation and dense reconstruction simultaneously. 
-Validation using local 2D features, based on existing methods, is then done to ensure better detection rates. 
-Further, performance of the detection system is evaluated by changing the internal parameterization of 3D model generation and the dependence is analyzed.  
-[<button type="button" class="btn btn-info">Report</button>](/reports/VehicleDetection-Report.pdf){:target="_blank"}
-[<button type="button" class="btn btn-success">Poster</button>](/reports/VehicleDetection-Poster.pptx)
-[<button type="button" class="btn btn-warning">Project Page</button>](projects/aerial-vehicle/)  
-
-<a id="human-activity-recognition"></a>  
- 
-* **Human Activity Recognition**  
-*B.Tech project-I, IIT Bombay, Fall 2013*  
-Guide: Prof. Subhasis Chaudhuri  
-**Abstract:**  
-Human activity recognition is gaining importance, not only in the view of security and surveillance but also due to psychological interests in understanding
-the behavioral patterns of humans. 
-This project is a study on various existing techniques that have been brought together to form a working pipeline to study human activity in social gatherings. 
-Humans are first detected with Deformable part models and tracked as a feature point in 2.5D co-ordinate system using Lucas-Kanade algorithm. 
-Linear cyclic pursuit model is then employed to predict short-term trajectory and understand behavior.  
-[<button type="button" class="btn btn-info">Report</button>](/reports/HumanActivity-Report.pdf){:target="_blank"}
-[<button type="button" class="btn btn-success">Poster</button>](/reports/HumanActivity-Poster.pptx)
-[<button type="button" class="btn btn-warning">Project Page</button>](projects/human-activity)  
-
-<a id="autonomous-underwater-vehicle-auv-iitb"></a>  
-
-* **Autonomous Underwater Vehicle (AUV-IITB)**  
-*AUVSI and ONR''s International Robosub Competition, San Diego, USA*  
-*Vision (Spring 2012 - Spring 2013)*  
-Guides: Dr. Hemendra Arya and Dr. Leena Vachhani  
-**Details:**  
-Designing and developing an unmanned autonomous underwater vehicle (AUV) that localizes itself and performs realistic missions based on feedback from visual, inertial, acoustic and depth sensors using thrusters and pneumatic actuators.  
-Matsya (sanskrit word for fish) is the AUV from IIT Bombay to participate in the International Robosub competition, San Diego which sees teams of different universities from countries all over the world.  
-[<button type="button" class="btn btn-info">Journal (2012)</button>](/reports/IIT_Bombay_Journal_Paper_2012.pdf)
-[<button type="button" class="btn btn-info">Journal (2013)</button>](/reports/IIT_Bombay_Journal_Paper_2013.pdf)
-[<button type="button" class="btn btn-warning">Project Page</button>](projects/auv-iitb/)  
-
-<a id="parallel-simulation-of-verilog-hdl-designs"></a>  
-
-* **Parallel Simulation of Verilog HDL designs**  
-*Internship, IIT Bombay, Summer 2012*  
-Guide: Prof. Sachin Patkar  
-**Abstract:**  
-Digital designs, before synthesis, are simulated on a computer platform to test their efficiency. Maximizing the performance and minimizing the overheads is, therefore, a vital area of research. The main focus of this work is to parallelize the simulation of single clock structural/behavior hardware designs without any time or resource conflict. Thus, resulting in a multi-fold in reduction in execution time. I was awarded **Undergraduate Research Award** ([URA 01](http://www.iitb.ac.in/newacadhome/urop.jsp)) for contribution to research at IIT Bombay.  
-[<button type="button" class="btn btn-warning">Project Page</button>](projects/parallel-verilog/)  
 
 -----
 <!---
