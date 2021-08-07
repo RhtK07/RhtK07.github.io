@@ -10,8 +10,8 @@ My research interests lie in the areas of signal processing, machine learning, d
 
 ### Thesis
 
-1. Mask Estimator Approaches For Audio Beamforming
-**MTech Thesis by Rohit Kumar**
+* **Mask Estimator Approaches For Audio Beamforming**
+*MTech Thesis*
 Instructor: Prof. Sriram Ganapathy
 [<button type="button" class="btn btn-info">Report</button>](/reports/Mtech_Thesis.pdf)
 
