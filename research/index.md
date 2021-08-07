@@ -8,6 +8,13 @@ comments: false
 
 My research interests lie in the areas of signal processing, machine learning, deep learning, and neuroscience with applications to robust speech recognition, speech enhancement, auditory and behavioral neuroscience.
 
+### Thesis
+
+1. Mask Estimator Approaches For Audio Beamforming
+**MTech Thesis by Rohit Kumar**
+Instructor: Prof. Sriram Ganapathy
+[<button type="button" class="btn btn-info">Report</button>](/reports/Mtech_Thesis.pdf)
+
 ### Publications
 
 [Google Scholar Page](https://scholar.google.com/citations?user=4PulMD4AAAAJ&hl=en)
@@ -102,4 +109,4 @@ Instructor: Prof. K.V.S Hari
 You can find my other projects from undergraduate [here](/research/oldprojects).  
 -->
 
-[Here](/research/courses/) is a list of all the courses I have taken, both during graduate and undergraduate studies.
+[Here](/research/courses/) is a list of all the courses I have taken, both during PhD and Master's.
