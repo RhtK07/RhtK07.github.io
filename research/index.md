@@ -177,7 +177,8 @@ Digital designs, before synthesis, are simulated on a computer platform to test 
 [<button type="button" class="btn btn-warning">Project Page</button>](projects/parallel-verilog/)  
 
 -----
-
+<!---
 You can find my other projects from undergraduate [here](/research/oldprojects).  
+-->
 
 [Here](/research/courses/) is a list of all the courses I have taken, both during graduate and undergraduate studies.
