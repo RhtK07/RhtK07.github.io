@@ -53,6 +53,7 @@ owner:
   linkedin: www.linkedin.com/in/rohit-k07 #username
   instagram: #username
   youtube: #username
+  codepen: "https://scholar.google.com/citations?user=4PulMD4AAAAJ&hl=en"
   scholar: "https://scholar.google.com/citations?user=4PulMD4AAAAJ&hl=en"
 
 include: [".htaccess"]
