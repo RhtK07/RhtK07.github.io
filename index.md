@@ -55,9 +55,9 @@ I have worked as an Automation Officer in Hindustan Petroleum, after completing 
         </td>
     <tr>
     <tr>
-        <td>PhD<br>2021-Present</td>
-        <td>MTech Signal Processing<br>2018-2021</td>
-        <td>BTech Electronics and Communication<br>2013-2017</td>
+        <td>Johns Hopkins University<br>2021-Present</td>
+        <td>Indian Institute of Science, Bengaluru<br>2018-2021</td>
+        <td>Delhi College of Engineering<br>2013-2017</td>
     </tr>
     </tr>
     </tr>
