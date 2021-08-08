@@ -1,0 +1,59 @@
+# Site wide configuration
+
+           
+locale:           en_US
+url: https://rhtk07.github.io/
+# Jekyll configuration
+minimal_mistakes_skin: "dark" #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+search: true
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+remote_theme: mmistakes/minimal-mistakes
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+# Site owner
+owner:
+  name: Rohit K 
+  avatar: rohitk_b1.jpg 
+  position: Graduate Student
+  school: Johns Hopkins University
+  place: Baltimore, Maryland.
+  bio: "Graduate student<br/>Electrical and Computer Engineering &#13;&#10; Johns Hopkins University&#13;&#10;Baltimore, Maryland"
+  email:  rkumar44@jhu.edu
+  disqus-shortname:
+  twitter: #username
+  facebook:  #username
+  links:
+    - label: "Scholar"
+      icon: "ai ai-google-scholar"
+      url: " https://scholar.google.com/citations?user=4PulMD4AAAAJ&hl=en"
+  github: RhtK07
+  linkedin: www.linkedin.com/in/rohit-k07 #username
+  instagram: #username
+  youtube: #username
+  scholar: "https://scholar.google.com/citations?user=4PulMD4AAAAJ&hl=en"
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

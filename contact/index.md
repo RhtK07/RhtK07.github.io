@@ -14,8 +14,8 @@ Email:
 * rkumar44 [at] jhu [dot] edu
 * rohtkumar07 [at] gmail [dot] com
 
-Address: 
-723 4th floor
-Mukherjee Nagar
-Delhi-110009
+Address:   
+723 4th floor  
+Mukherjee Nagar  
+Delhi-110009  
 India. 
