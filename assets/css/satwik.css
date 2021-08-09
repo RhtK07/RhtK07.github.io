@@ -7,7 +7,7 @@
     padding-bottom: .5em;
 }
 
-.news-table tr:hover {background-color: #F5F5F5}
+.news-table tr:hover {background-color: #F0F8FF}
 
 .affl-pic td img{ float: middle; max-width:100%; }
 .affl-pic td { font-size:.9em; border: 0px; width:20%; vertical-align: center; text-align:center; }
