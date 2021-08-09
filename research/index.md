@@ -95,12 +95,12 @@ In this report, we will explore a linear dimensionality reduction technique name
 *E9 261 Speech Information Processing*  
 Instructor: Prof. Prasanta Kumar Ghosh and Prof. Sriram Ganapathy  
 **Abstract:**  
-
+Automatic  speech  recognition  in  reverberant  conditions  is  a challenging task as the long-term envelopes of the reverberantspeech are temporally smeared. In this project, I tried to implement the work by [Nakatani et el](https://ieeexplore.ieee.org/document/5547558), where the paper praposed a statistical model based speech dereverberation approach, that can cancel the late reverberation of a reverberant speech signal. For this project, REVERB Challenge dataset was used and various objective evaluation tests were performed on the enhaced audio. 
 
 * **Sparsity in Linear Prediction Coefficient**  
 *E9 203 Compressive sensing and sparse signal processing*  
 Instructor: Prof. K.V.S Hari  
-**Abstract:**  
+
 
 
 -----
