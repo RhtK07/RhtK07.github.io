@@ -84,7 +84,7 @@ Decoding of the auditory brain for an acoustic stimulus involves finding the rel
 
 * **Non-Negative Matrix Factorization**  
 *E0 229 Foundations of Data Science*  
-Instructor: Prof. Siddharth Barman
+Instructor: Prof. Siddharth Barman  
 **Abstract:** 
 Linear dimensionality reduction techniques such as principal component analysis and singular value decomposition are powerful tools for dealing with high dimensional data.
 In this report, we will explore a linear dimensionality reduction technique namely Non negative matrix factorization, a low rank approximation problem which is quite useful while dealing with data in which all entries are non negative, for eg., spectrogram matrix entries or pixels in an image. More precisely, we seek to approximate a given non negative matrix as a product of two low-rank non negative matrices. In this report we will embark on the journey to explore the theoretical complexity associated with this problem, then how to find the non negative factors of our main protagonist and what all applications are there we can use this non negative matrix factorisation. 
