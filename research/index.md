@@ -22,7 +22,8 @@ Instructor: Prof. Sriram Ganapathy
 
 1. End-To-End Speech Recognition With Joint Derevberation of Sub-Band Autoregressive Envelopes
 **Rohit Kumar**, Anurenjan Purushothaman, Anirudh Sreeram and Sriram Ganapathy
-*Under Review*
+*Under Review*  
+[<button type="button" class="btn btn-info">Paper</button>](http://arxiv.org/abs/2108.03975)
 
 1. SRIB-LEAP submission to Far-field Multi-Channel Speech Enhancement Challenge for Video Conferencing
 R G Prithvi Raj, **Rohit Kumar**, M K Jayesh, Anurenjan Purushothaman, Sriram Ganapathy and M A Basha Shaik
