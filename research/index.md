@@ -25,6 +25,12 @@ Instructor: Prof. Sriram Ganapathy
 *Under Review*  
 [<button type="button" class="btn btn-info">Paper</button>](http://arxiv.org/abs/2108.03975)
 
+1. Dereverberation of autoregressive envelopes for far-field speech recognition
+Anurenjan Purushothaman, Anirudh Sreeram, **Rohit Kumar** and Sriram Ganapathy
+*Elsevier Journal of Computer Speech and Language*
+[<button type="button" class="btn btn-info">Paper</button>](https://www.sciencedirect.com/science/article/pii/S0885230821000802?via%3Dihub)
+
+
 1. SRIB-LEAP submission to Far-field Multi-Channel Speech Enhancement Challenge for Video Conferencing
 R G Prithvi Raj, **Rohit Kumar**, M K Jayesh, Anurenjan Purushothaman, Sriram Ganapathy and M A Basha Shaik
 *INTERSPEECH 2021*

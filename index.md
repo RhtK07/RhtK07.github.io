@@ -23,6 +23,11 @@ Before that, I have completed my [Master's in Signal Processing](https://ece.iis
     <col width="15%">
     <col width="85%">
     <tr>
+        <td valign="top"><strong>[March 2020]</strong></td>
+        <td> Our paper, <a href="https://www.sciencedirect.com/science/article/pii/S0885230821000802?via%3Dihub">Dereverberation of autoregressive envelopes for far-field speech recognition</a>, has been accepted at Elsevier Journal of Computer Speech and Language.
+        </td>
+    </tr>
+    <tr>
         <td valign="top"><strong>[Feb 2021]</strong></td>
         <td> Admitted to the PhD program, in the Department of Electrical and Computer Engineering at the Johns Hopkins University.
         </td>
