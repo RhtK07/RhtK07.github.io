@@ -84,27 +84,27 @@ Anirudh Sreeram, Anurenjan Purushothaman, **Rohit Kumar**, Sriram Ganapathy
 
 
 
-* **END-TO-END DEEP NETWORK FOR IMAGE TO AUDIO CONVERSION**
-*EN.520.612.01.FA21 Machine Learning for Signal Processing*
-Instructor: Prof. Najim Dehak
-**Abstract:**
+* **END-TO-END DEEP NETWORK FOR IMAGE TO AUDIO CONVERSION**  
+*EN.520.612.01.FA21 Machine Learning for Signal Processing*  
+Instructor: Prof. Najim Dehak  
+**Abstract:**  
 Image to speech synthesis plays a crucial role in assisting blind people. Image to speech synthesis aims to synthesize intelligible and natural speech given an input image. In this work, we propose an end-to-end encoder-decoder-based architecture for the image to speech synthesis where we attempt to generate audio from image directly without generating intermediate text first. Further,  we employ a transformer network to understand long-range dependencies in images for synthesizing better speech. We will analyze our model performance by evaluating it on a standard benchmark dataset and will compare with existing state-of-the-art methods.
 [<button type="button" class="btn btn-success">Code</button>](https://github.com/RhtK07/Text_2_Speech_MLSP.git) 
 [<button type="button" class="btn btn-info">Report</button>](/reports/MLSP_Project_Progress_Report.pdf)
 
 
 
-* **FEATURE ANALYSIS IN AUDIO RECORDINGS FOR COVID-19 DERECTION**
-*EN.520.645.01.FA21 Audio Signal Processing*
-Instructor: Prof. Mounya Elhilali
-**Abstract:**
+* **FEATURE ANALYSIS IN AUDIO RECORDINGS FOR COVID-19 DERECTION**  
+*EN.520.645.01.FA21 Audio Signal Processing*  
+Instructor: Prof. Mounya Elhilali 
+**Abstract:**  
 Current COVID-19 testing processes present many barriers such as high cost, lack of availability, and time delay in the results. While the use of audio signals as biomarkers for COVID-19 detection has shown promise in recent work, there is still room for improvement in both signal analysis and classification performance for COVID-19 audio data. Through feature extraction and analysis of multiple audio modalities, this project attempts to provide a signal-level understanding of COVID-19 biomarkers in audio, allowing for better feature selection and classification performance going forward. To accomplish this, COVID-19 audio samples from breathing, cough, and speech recordings were obtained through the Coswara dataset [\cite{sharma2020coswara}]. Features outlined in the INTERSPEECH 2013 Computational Paralinguistics Evaluation baseline [\cite{schuller2013interspeech}] were extracted, including a set of low-level features along with their statistical functionals. Features were ranked and selected from each modality according to a two-part selection process. Finally, an in-depth analysis of the optimal features was performed in order to provide further insight into effective features for COVID-19 classification.
 [<button type="button" class="btn btn-success">Code</button>](https://github.com/carankt/asp_project)
 [<button type="button" class="btn btn-info">Report</button>](/reports/ASP_Final_Report.pdf)
 
 
 
-* **DEEP MULTIWAY CANONICAL CORRELATION ANALYSIS FOR DECODING THEAUDITORY BRAIN**  
+* **DEEP MULTIWAY CANONICAL CORRELATION ANALYSIS FOR DECODING THE AUDITORY BRAIN**  
 *E9 205 Machine Learning for Signal Processing*  
 Instructor: Prof. Sriram Ganapathy  
 **Abstract:**  
