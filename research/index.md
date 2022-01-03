@@ -96,7 +96,7 @@ Image to speech synthesis plays a crucial role in assisting blind people. Image 
 
 * **FEATURE ANALYSIS IN AUDIO RECORDINGS FOR COVID-19 DERECTION**  
 *EN.520.645.01.FA21 Audio Signal Processing*  
-Instructor: Prof. Mounya Elhilali 
+Instructor: Prof. Mounya Elhilali   
 **Abstract:**  
 Current COVID-19 testing processes present many barriers such as high cost, lack of availability, and time delay in the results. While the use of audio signals as biomarkers for COVID-19 detection has shown promise in recent work, there is still room for improvement in both signal analysis and classification performance for COVID-19 audio data. Through feature extraction and analysis of multiple audio modalities, this project attempts to provide a signal-level understanding of COVID-19 biomarkers in audio, allowing for better feature selection and classification performance going forward. To accomplish this, COVID-19 audio samples from breathing, cough, and speech recordings were obtained through the Coswara dataset [\cite{sharma2020coswara}]. Features outlined in the INTERSPEECH 2013 Computational Paralinguistics Evaluation baseline [\cite{schuller2013interspeech}] were extracted, including a set of low-level features along with their statistical functionals. Features were ranked and selected from each modality according to a two-part selection process. Finally, an in-depth analysis of the optimal features was performed in order to provide further insight into effective features for COVID-19 classification.
 [<button type="button" class="btn btn-success">Code</button>](https://github.com/carankt/asp_project)
