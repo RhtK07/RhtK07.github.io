@@ -89,7 +89,7 @@ Anirudh Sreeram, Anurenjan Purushothaman, **Rohit Kumar**, Sriram Ganapathy
 Instructor: Prof. Najim Dehak
 **Abstract:**
 Image to speech synthesis plays a crucial role in assisting blind people. Image to speech synthesis aims to synthesize intelligible and natural speech given an input image. In this work, we propose an end-to-end encoder-decoder-based architecture for the image to speech synthesis where we attempt to generate audio from image directly without generating intermediate text first. Further,  we employ a transformer network to understand long-range dependencies in images for synthesizing better speech. We will analyze our model performance by evaluating it on a standard benchmark dataset and will compare with existing state-of-the-art methods.
-[<button type="button" class="btn btn-success">Code</button>](/reports/FDS.pdf) 
+[<button type="button" class="btn btn-success">Code</button>](https://github.com/RhtK07/Text_2_Speech_MLSP.git) 
 [<button type="button" class="btn btn-info">Report</button>](/reports/MLSP_Project_Progress_Report.pdf)
 
 
