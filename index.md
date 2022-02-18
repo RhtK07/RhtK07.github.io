@@ -22,6 +22,12 @@ Before that, I have completed my [Master's in Signal Processing](https://ece.iis
 <table class='news-table'>
     <col width="15%">
     <col width="85%">
+     <tr>
+        <td valign="top"><strong>[Jan 2022]</strong></td>
+        <td> Our paper, <a href="https://arxiv.org/abs/2108.03975">End-to-End Speech Recognition with Joint Derrverberation of Sub-Band Autoregressive Envelopes</a>, has been accepted at ICASSP, 2022.
+        </td>
+    </tr>
+    
     <tr>
         <td valign="top"><strong>[August 2021]</strong></td>
         <td> Our paper, <a href="https://www.sciencedirect.com/science/article/pii/S0885230821000802?via%3Dihub">Dereverberation of autoregressive envelopes for far-field speech recognition</a>, has been accepted at Elsevier Journal of Computer Speech and Language.
